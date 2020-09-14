@@ -1,0 +1,8 @@
+from_who,to_who,logo,number,date,due_date,items,notes
+Rkeytech,Facebook,https://i.ibb.co/JmxYVH2/rkeytech-logo.png,1,03.09.2020,20.09.2020,"[{""name"": ""Shop automation service"", ""quantity"": 1, ""unit_cost"": 5000}]",Thanks for your business!
+Rkeytech,Google,https://i.ibb.co/JmxYVH2/rkeytech-logo.png,2,04.09.2020,21.09.2020,"[{""name"": ""Web Scraper"", ""quantity"": 1, ""unit_cost"": 1500}]",Was a pleasure!
+Rkeytech,Linux Foundation,https://i.ibb.co/JmxYVH2/rkeytech-logo.png,3,05.09.2020,22.09.2020,"[{""name"": ""Starter plan"", ""quantity"": 1, ""unit_cost"": 350}, {""name"": ""Ads Automation"", ""quantity"": 1, ""unit_cost"": 7500}]",Thanks!
+Rkeytech,Netflix,https://i.ibb.co/JmxYVH2/rkeytech-logo.png,4,06.09.2020,23.09.2020,"[{""name"": ""Predicting Algorithm"", ""quantity"": 1, ""unit_cost"": 3500}]",Looking for more collaboration in the future.
+Rkeytech,Amazon,https://i.ibb.co/JmxYVH2/rkeytech-logo.png,5,07.09.2020,24.09.2020,"[{""name"": ""Web Scraper"", ""quantity"": 2, ""unit_cost"": 750}, {""name"": ""CSV To SQL Automation"", ""quantity"": 1, ""unit_cost"": 4500}]",Thanks for your business!
+Rkeytech,Magazara,https://i.ibb.co/JmxYVH2/rkeytech-logo.png,6,08.09.2020,25.09.2020,"[{""name"": ""Machine Learning Algorithm"", ""quantity"": 2, ""unit_cost"": 12000}]",Thank you!
+Rkeytech,Anon,https://i.ibb.co/JmxYVH2/rkeytech-logo.png,6,08.09.2020,25.09.2020,"[{""name"": ""Privacy Web Scraper"", ""quantity"": 1, ""unit_cost"": 12000}]",Thank you!
